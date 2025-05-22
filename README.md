@@ -18,8 +18,8 @@ I made Clyde in order to learn about APIs and API documentation.
 
 ### Dependencies
 
-(Python 3.13.3)[https://www.python.org/]
-(PIP)[https://pip.pypa.io/en/stable/installation/]
+[Python 3.13.3](https://www.python.org/)
+[PIP](https://pip.pypa.io/en/stable/installation/)
 
 ### Installing
 
